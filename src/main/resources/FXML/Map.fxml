@@ -1,0 +1,3038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<GridPane fx:id="gameGrid" alignment="CENTER" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+    <!-- column 0 -->
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="1">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="5">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="8">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="20">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="23">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="26">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="29">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="0" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+
+    <!-- column 1 -->
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="1">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="2">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="3">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="4">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="5">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="6">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="7">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="21">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="22">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="27">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="28">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="1" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 2 -->
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="1">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="5">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="2" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 3 -->
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="1">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="5">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="24">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="25">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="3" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 4 -->
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="23">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="4" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 5 -->
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="1">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="5">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="23">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="5" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 6 -->
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="1">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="2">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="3">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="4">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="5">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="6">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="7">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="9">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="10">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="12">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="16">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="18">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="19">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="21">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="22">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="24">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="25">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="6" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 7 -->
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="1">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="5">
+        <Rectangle fill="BLACK" height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="8">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="26">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="7" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 8 -->
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="8">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="26">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="8" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 9 -->
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="6">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="7">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="8">
+    <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="12">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="16">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="18">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="19">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="24">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="25">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="9" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 10 -->
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="14">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="10" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 11 -->
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="11" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 12 -->
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="2">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="3">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="4">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="9">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="10">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="21">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="22">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="27">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="28">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="12" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 13 -->
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="1">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="8">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="12">
+        <Rectangle fill="WHITE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="20">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="26">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="13" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 14 -->
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="1">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="8">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="12">
+        <Rectangle fill="WHITE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="20">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="26">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="14" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 15 -->
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="2">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="3">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="4">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="9">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="10">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="21">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="22">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="27">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="28">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="15" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 16 -->
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="16" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 17 -->
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="14">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="17" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 18 -->
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="6">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="7">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="12">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="16">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="18">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="19">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="24">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="25">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="18" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 19 -->
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="8">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="26">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="19" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 20 -->
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="8">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="26">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="20" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 21 -->
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="2">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="3">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="4">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="6">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="7">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="9">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="10">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="11">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="12">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="13">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="15">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="16">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="17">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="18">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="19">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="21">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="22">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="24">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="25">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="21" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 22 -->
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="23">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="22" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 23 -->
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="23">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="23" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 24 -->
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="24">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="25">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="24" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 25 -->
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="25" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 26 -->
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="1">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="2">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="3">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="4">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="5">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="6">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="7">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="8">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="20">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="21">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="22">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="23">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="26">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="27">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="28">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="29">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="26" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+    <!-- row 27 -->
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="0">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="1">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="2">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="3">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="4">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="5">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="6">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="7">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="8">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="9">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="10">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="11">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="12">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="13">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="14">
+        <Rectangle height="20" width="20" />
+
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="15">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="16">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="17">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="18">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="19">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="20">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="21">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="22">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="23">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="24">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="25">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="26">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="27">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="28">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="29">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+    <StackPane GridPane.columnIndex="27" GridPane.rowIndex="30">
+        <Rectangle fill="BLUE" height="20" width="20" />
+    </StackPane>
+
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+
+</GridPane>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.GridPane?>
+
+<!-- Pinky (Pink Ghost) -->
+
+<StackPane GridPane.columnIndex="2" GridPane.rowIndex="1">
+    <Rectangle width="10" height="10" fill="PINK" />
+</StackPane>
